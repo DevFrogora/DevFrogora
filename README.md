@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **learning socket**
 - 🌱 I’m currently learning Html DOM
 - Topic which i learned : [@HtmlDOM](HTMLDOM.html)
 - 👯 I’m looking to collaborate on ...
