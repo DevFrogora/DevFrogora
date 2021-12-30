@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Frogora#1254 (discord.com/username)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
-
+- Drop Project: lm293d not working so failed to make app control bluetooth electronic toy car
