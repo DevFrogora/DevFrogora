@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 - Drop Project: lm293d not working so failed to make app control bluetooth electronic toy car
-Welcome <img src="https://cdn.discordapp.com/attachments/244230771232079873/930388951431274547/2022-01-11_14-33-37.mp4" width="150" height="100" /> <br>
+
+    [![AR](https://media.discordapp.net/attachments/720259059294404669/847492630090350622/GIF_27-05-2021_20-38-18.gif)](https://cdn.discordapp.com/attachments/244230771232079873/930388951431274547/2022-01-11_14-33-37.mp4)
