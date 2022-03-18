@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-**DevFrogora/DevFrogora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - Worked List : [@HtmlDOM](HTMLDOM.json)[@RazorPay Payement Gateway]() [@WebScraper]()
 - 💬 Ask me about Programming Language, Unity , Blender , Electricity ,Electronics, Land Documents
 - 📫 How to reach me: Frogora#1254 (discord.com/username)
